@@ -1,0 +1,17 @@
+Name: Kaushik Debdas
+ID: 011 162 043
+Course Code: CSE 426
+Section: C
+
+In this project I can also add Seven Segment display for count & show how many time
+the push button is pressed.We can show the RGB number in Seven Segment display gradually 
+increase/decrease.In this project, I use the DHT11 sensor. If I use the DHT22 sensor then
+this system will improve the range and accuracy greatly. In this project, I use HUMIDITY
+value but we can also find Temperature value. In this project we can also add LDR then this
+system will measure luminosity. We can also add led. Adding led would improve the
+clarity of the system. We can use the SIM900 module to send and receive sms from/to
+the master Arduino. We can also add more Arduino Uno board then we do a lot of things.
+We can add the ultrasonic sensor. We can add a sensor that automatically does light on/off. 
+
+
+There are lots of hardware could be added that do my system better performance.
